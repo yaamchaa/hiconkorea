@@ -2,7 +2,7 @@ import { useState } from "react";
 import svgPaths from "../imports/svg-7fxmxes9ri";
 import imgImage7 from "figma:asset/dc80206819425424b07394d02d5f4daf1bdf9aa7.png";
 import imgImage6 from "figma:asset/6a398b2390720386e6fd6048e501f78ed8e80a77.png";
-import { YouTubeBackground } from "./YouTubeBackground";
+import { YoutubeBackground } from "./YoutubeBackground";
 
 interface StaffAuthProps {
   onBack: () => void;
